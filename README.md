@@ -1,4 +1,3 @@
-# Pytorch
 # PyTorch Deep Learning 
 
 This repository contains my notes and practice code based on the **"Deep Learning with PyTorch - Full Course"** playlist on YouTube by freeCodeCamp.org.
